@@ -22,6 +22,7 @@ void AddArray(int ary[], int size)
 	}
 
 }
+//入力チェック
 int InputCheck(int min, int max)
 {
 	int num;
@@ -41,6 +42,7 @@ int InputCheck(int min, int max)
 	}
 	return num;
 }
+//メイン
 int main(void)
 {
 	int arry[INDEX] = {};
