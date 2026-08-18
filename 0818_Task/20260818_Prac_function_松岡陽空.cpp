@@ -13,5 +13,5 @@ int main()
 	shuffleCard(ary);
 
 	showCrad(ary);
-
+	
 }
